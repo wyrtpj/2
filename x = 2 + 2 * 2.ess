@@ -1,0 +1,8 @@
+start
+new a number
+set a 2
+new b number
+set b a+a 
+new x number
+set x a+b
+log string "x =" >> x
